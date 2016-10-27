@@ -1,0 +1,80 @@
+div id=container
+  
+  div id=header
+  div
+  
+  div id=main
+    div id=frame
+	  input type=radio checked=checked name=slideshow id=slider01 
+	  input type=radio checked=checked name=slideshow id=slider02 
+	  input type=radio checked=checked name=slideshow id=slider03 
+	  input type=radio checked=checked name=slideshow id=slider04 
+	  input type=radio checked=checked name=slideshow id=slider05 
+	  input type=radio checked=checked name=slideshow id=slider06 
+	  
+	    div id=larrow
+		label for=slider01 class=l1label
+		label for=slider02 class=l2label
+		label for=slider03 class=l3label
+		label for=slider04 class=l4label
+		label for=slider05 class=l5label
+		div
+		div id=rarrow
+		label for=slider01 class=l6label
+		label for=slider02 class=l7label
+		label for=slider03 class=l8label
+		label for=slider04 class=l9label
+		label for=slider05 class=l10label
+		div
+	  div id=inner
+	    ul
+		
+		  li class=animation01
+		    img src=httpmedia-cache-ec0.pinimg.com736x860e7d860e7d1a05ca422907c93304dfd580e8.jpg 
+			div class=tooltip
+			div
+		  li
+		  
+		  li class=animation02
+		    img src=httpslh5.googleusercontent.com-XSizc9WBZOkUobIA4wAS1IAAAAAAAAEf8kO75eytLZcYw600-h420-noIMG_1196_communityArboretum.jpg 
+			div class=tooltip
+			div
+		  li
+		  
+		  li class=animation03
+		    img src=httpwww.shmcps.edu.hksubjectgeneralTransportimagesfeiji_1.jpg 
+			div class=tooltip
+			div
+		  li
+		  
+		  li class=animation04
+		    img src=httpwww.misbit.comrecipeprintable600_4201646.jpg 
+			div class=tooltip
+			div
+		  li
+		  
+		 		  li class=animation05
+		    img src=httpwww.misbit.comrecipeprintable600_4202589.jpg 
+			div class=tooltip
+			div
+		  li
+		  
+		ul
+	  div    
+	  
+	  div id=lbutton
+	  label for=slider01 class=lb1label
+	  label for=slider02 class=lb2label
+	  label for=slider03 class=lb3label
+	  label for=slider04 class=lb4label
+	  label for=slider05 class=lb5label
+	  label for=slider06 class=label6label
+	  div
+	  
+    div  
+  div
+  
+  div id=footer
+  div
+ 
+div
